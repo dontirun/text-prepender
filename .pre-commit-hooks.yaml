@@ -1,0 +1,7 @@
+# Copyright 2021 Arun Donti
+# SPDX-License-Identifier: MIT
+- id: text-prepender
+  name: Add Notice to files
+  entry: text-prepender
+  language: python
+  types: [text]
