@@ -47,12 +47,12 @@ If you'd like text-prepender to be run automatically when making changes to file
 ```yaml
   repos:
   - repo: https://github.com/dontirun/text-prepender
-      rev: v0.1.0 # The version of text-prepender
-      hooks:
-      - id: text-prepender
-      #  args:
-      #    - '--text-file'
-      #    - 'NOTICE'
+    rev: v0.1.0 # The version of text-prepender
+    hooks:
+    - id: text-prepender
+    #  args:
+    #    - '--text-file'
+    #    - 'NOTICE'
 ```
 ## Manual Build
 
