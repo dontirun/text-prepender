@@ -19,7 +19,7 @@ Optional parameters:
 | -------------------- | -------------------- | ---------------------------------------------------------------------------- |
 | -h, --help           |                      | Get description of text-prepender                                            |
 | -p, --path           | dirpath              | The path to the directory which text-prepender will start at (default: '.')  |
-| -t, --text-file      | filepath             | The path to the file which text-prepender will start at (default: NOTICE)    |
+| -t, --text-file      | filepath             | The file that contains the legal text (default: NOTICE)                      |
 | -i, --extra-ignores  | space delimited list | Additional file paths/names to ignore. Ex. (-i file1 path1 path2)            |
 | -v, --enable-verbose |                      | Flag to turn on verbose logging to list skipped files at the end             |
 
